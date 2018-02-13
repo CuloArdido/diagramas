@@ -1,5 +1,5 @@
 # Guiá de sistemas operativos para [/t/](https://www.hispachan.org/t/res/29592.html)
-![](./Guia%20de%20sistemas%20operativos/Guia%20de%20sistemas%20operativos.png =300)
+![Vista previa](./Guia%20de%20sistemas%20operativos/Guia%20de%20sistemas%20operativos.png)
 Basado en [este](https://rbt.asia/g/thread/44800382/#q44800469) diagrama de 4chan.
 
 Esta guiá se publica bajo la misma licencia que la versión original; [Atribución-CompartirIgual 3.0 Unported (CC BY-SA 3.0)](https://creativecommons.org/licenses/by-sa/3.0/).
